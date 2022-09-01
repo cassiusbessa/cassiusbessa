@@ -6,11 +6,8 @@ Web Developer
 
 Hey, I'm a law graduate and passionate about technology, I recently discovered the art of coding. Transform ideas into concrete technologies and applications. I am currently in career transition, studying programming at Trybe.
 
-* 🖥️  See my portfolio at [My Portifolio](http://teste.com)
 * ✉️  You can contact me at [cassiusbessa@gmail.com](mailto:cassiusbessa@gmail.com)
 * :calling: +55 48 996690595
-* 🚀  I'm currently working on [Star Wars Planets](http://teste)
-* 🧠  I'm learning Docker and SQL
 * 🤝  I'm open to collaborating on All projects
 * ⚡  I love to travel, I have a stamp from Thailand to USA in my passport
 
